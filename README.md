@@ -1,8 +1,9 @@
 Example Ionic app which uses FontAwesome icons
 
 1) Uses the ionic starter template `tabs`
-2) Added a simple spinning cog on the Home screen
-3) Tab icons are using custom icons, which extend FontAwesome icons. Property is set in tabs.html as `tabIcon="custom-home"`
+2) Uses FontAwesome 4.7.0; Ionic 3.9.2
+3) Added a simple spinning cog on the Home screen
+4) Tab icons are using custom icons, which extend FontAwesome icons. Property is set in tabs.html as `tabIcon="custom-home"`
 
 
 
