@@ -32,4 +32,4 @@ src
 
 
 
-![Ionic with Font Awesome Icons](./Font Awesome Icons-Ionic App.png)
+![Ionic with Font Awesome Icons](https://github.com/jarodms/ionic-fontawesome-icons/blob/master/Font%20Awesome%20Icons-Ionic%20App.png)
