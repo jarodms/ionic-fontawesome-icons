@@ -27,3 +27,9 @@ src
 
 ```
 4) define your custom icons in `variables.scss`
+
+
+
+
+
+![Ionic with Font Awesome Icons](./Font Awesome Icons-Ionic App.png)
